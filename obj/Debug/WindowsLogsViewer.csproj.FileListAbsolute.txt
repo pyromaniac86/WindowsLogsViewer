@@ -1,0 +1,9 @@
+C:\C#\WindowsLogsViewer\WindowsLogsViewer\WindowsLogsViewer\bin\Debug\WindowsLogsViewer.exe.config
+C:\C#\WindowsLogsViewer\WindowsLogsViewer\WindowsLogsViewer\bin\Debug\WindowsLogsViewer.exe
+C:\C#\WindowsLogsViewer\WindowsLogsViewer\WindowsLogsViewer\bin\Debug\WindowsLogsViewer.pdb
+C:\C#\WindowsLogsViewer\WindowsLogsViewer\WindowsLogsViewer\obj\Debug\WindowsLogsViewer.csprojResolveAssemblyReference.cache
+C:\C#\WindowsLogsViewer\WindowsLogsViewer\WindowsLogsViewer\obj\Debug\WindowsLogsViewer.WindowsLogsViewer.resources
+C:\C#\WindowsLogsViewer\WindowsLogsViewer\WindowsLogsViewer\obj\Debug\WindowsLogsViewer.Properties.Resources.resources
+C:\C#\WindowsLogsViewer\WindowsLogsViewer\WindowsLogsViewer\obj\Debug\WindowsLogsViewer.csproj.GenerateResource.Cache
+C:\C#\WindowsLogsViewer\WindowsLogsViewer\WindowsLogsViewer\obj\Debug\WindowsLogsViewer.exe
+C:\C#\WindowsLogsViewer\WindowsLogsViewer\WindowsLogsViewer\obj\Debug\WindowsLogsViewer.pdb
